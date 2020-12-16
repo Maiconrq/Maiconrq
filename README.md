@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/51386810/102106263-1c96ab80-3e0f-11eb-9717-094b0eb3591c.png">
+<img src="https://user-images.githubusercontent.com/51386810/102377135-16d1cf00-3fa3-11eb-96e8-c8f8dda37b49.png">
 </p>
 
 <a align="center" href="https://github.com/jstrieb/github-stats">
