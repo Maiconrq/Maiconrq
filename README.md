@@ -4,3 +4,4 @@
 
 ![](https://komarev.com/ghpvc/?username=Maiconrq&color=orange&style=flat-square)
 [![Linkedin: maicon-rodrigues-dev](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-rodrigues-dev/)
+[![GitHub maiconrq](https://img.shields.io/github/followers/maiconrq?label=follow&style=social)](https://github.com/Maiconrq)
