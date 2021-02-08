@@ -3,6 +3,6 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Maiconrq&color=orange&style=flat-square)
-[![Linkedin: maicon-rodrigues-dev](https://img.shields.io/badge/linkedin-orange?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-rodrigues-dev/)
+[![Linkedin: maicon-rodrigues-dev](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-rodrigues-dev/)
 [![GitHub maiconrq](https://img.shields.io/github/followers/maiconrq?label=follow&style=social)](https://github.com/Maiconrq)
-[![Gmail Badge](https://img.shields.io/badge/-nociamrq27@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nociamrq27@gmail.com)](mailto:nociamrq27@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nociamrq27@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nociamrq27@gmail.com)](mailto:nociamrq27@gmail.com)
