@@ -18,7 +18,7 @@
 
 
 <details>
-<summary>More Skills</summary>
+<summary><b><i>More Skills</i></b></summary>
   
 ### to delve into the future:  
 ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=orange)
