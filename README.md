@@ -18,7 +18,6 @@
 ![Angular](https://img.shields.io/badge/-angular-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=orange)
 
 
-
 <details>
 <summary>More Skills</summary>
   
