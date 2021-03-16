@@ -37,5 +37,6 @@
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=orange)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=orange)
 ![C](https://img.shields.io/badge/-C_Language-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=orange)
+![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=orange)
 
 </details>
