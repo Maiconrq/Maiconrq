@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/GithubReadme-Banner.png">
+<img src="img/GithubReadmeBanner.png">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Maiconrq&color=orange&style=flat-square)
