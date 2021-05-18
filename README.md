@@ -11,8 +11,8 @@
 ## I'm currently studying:
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=orange)
 ![Spring](https://img.shields.io/badge/-spring-grey?style=for-the-badge&logo=spring&logoColor=white&labelColor=orange)
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=orange)
+![PL/SQL](https://img.shields.io/badge/-plsql-grey?style=for-the-badge&logo=oracle&logoColor=white&labelColor=orange)
+![OracleDB](https://img.shields.io/badge/-oracledb-grey?style=for-the-badge&logo=oracle&logoColor=white&labelColor=orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=orange)
 ![React](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=orange)
 
