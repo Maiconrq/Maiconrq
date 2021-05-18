@@ -27,7 +27,7 @@
 
 
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=orange)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=orange)
+![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node-dot-js&logoColor=white&labelColor=orange)
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=orange)
 ![ruby](https://img.shields.io/badge/-ruby-grey?style=for-the-badge&logo=ruby&logoColor=white&labelColor=orange)
 ![Assembly Mips](https://img.shields.io/badge/-mips-grey?style=for-the-badge&logo=nintendo&logoColor=white&labelColor=orange)
