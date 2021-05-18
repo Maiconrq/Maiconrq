@@ -36,8 +36,11 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=orange)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=orange)
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange)
+![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=orange)
 ![C](https://img.shields.io/badge/-C_Language-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=orange)
 ![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=orange)
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-grey?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=orange)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=orange)
+![Windows](https://img.shields.io/badge/-Windows-grey?style=for-the-badge&logo=windows&logoColor=white&labelColor=orange)
 
 </details>
