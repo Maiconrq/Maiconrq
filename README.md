@@ -9,12 +9,10 @@
 <!---[![Dev.to: maiconrq](https://img.shields.io/badge/dev.to-black?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/maiconrq)--->
 
 ## I'm currently studying:
-![Microsoft Azure](https://img.shields.io/badge/-microsoft-azure-grey?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=orange)
-![Azure DevOps](https://img.shields.io/badge/-azure-devops?style=for-the-badge&logo=azure-devops&logoColor=white&labelColor=orange)
+![Microsoft Azure](https://img.shields.io/badge/-azure-grey?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=orange)
+![Azure DevOps](https://img.shields.io/badge/-azuredevops-grey?style=for-the-badge&logo=azure-devops&logoColor=white&labelColor=orange)
 ![Terraform](https://img.shields.io/badge/-terraform-grey?style=for-the-badge&logo=terraform&logoColor=white&labelColor=orange)
 ![Docker](https://img.shields.io/badge/-docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=orange)
-
-
 ![Python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=orange)
 
 
