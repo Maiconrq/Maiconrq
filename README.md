@@ -11,6 +11,13 @@
 ## I'm currently studying:
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=orange)
 ![Spring](https://img.shields.io/badge/-spring-grey?style=for-the-badge&logo=spring&logoColor=white&labelColor=orange)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=orange)
+![MongoDB](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=orange)
+![Junit5](https://img.shields.io/badge/-junit5-grey?style=for-the-badge&logo=junit5&logoColor=white&labelColor=orange)
+![Cucumber](https://img.shields.io/badge/-cucumber-grey?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=orange)
+![Spring-boot](https://img.shields.io/badge/-spring_boot-grey?style=for-the-badge&logo=springboot&logoColor=white&labelColor=orange) 
+![intellijidea](https://img.shields.io/badge/-intellij_idea-grey?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=orange)
+
 
 
 
