@@ -13,6 +13,7 @@
 ![Spring](https://img.shields.io/badge/-spring-grey?style=for-the-badge&logo=spring&logoColor=white&labelColor=orange)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=orange)
 ![MongoDB](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=orange)
+![Hibernate](https://img.shields.io/badge/-hibernate-grey?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=orange)
 ![Junit5](https://img.shields.io/badge/-junit5-grey?style=for-the-badge&logo=junit5&logoColor=white&labelColor=orange)
 ![Cucumber](https://img.shields.io/badge/-cucumber-grey?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=orange)
 ![Selenium](https://img.shields.io/badge/-selenium-grey?style=for-the-badge&logo=selenium&logoColor=white&labelColor=orange)
