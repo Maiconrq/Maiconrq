@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-nociamrq27@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nociamrq27@gmail.com)](mailto:nociamrq27@gmail.com)
 <!---[![Dev.to: maiconrq](https://img.shields.io/badge/dev.to-black?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/maiconrq)--->
 
-## I'm currently studying:
+## I'm currently studying and using:
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=orange)
 ![Spring](https://img.shields.io/badge/-spring-grey?style=for-the-badge&logo=spring&logoColor=white&labelColor=orange)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=orange)
