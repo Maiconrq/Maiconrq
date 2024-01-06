@@ -20,6 +20,8 @@
 ![Spring-boot](https://img.shields.io/badge/-spring_boot-grey?style=for-the-badge&logo=springboot&logoColor=white&labelColor=orange) 
 ![intellijidea](https://img.shields.io/badge/-intellij_idea-grey?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=orange)
 ![sql](https://img.shields.io/badge/-sql-grey?style=for-the-badge&logo=sql&logoColor=white&labelColor=orange)
+![design_patterns](https://img.shields.io/badge/-design_patterns-grey?style=for-the-badge&logo=materialdesignicons&logoColor=white&labelColor=orange)
+
 
 
 
