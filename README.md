@@ -25,9 +25,6 @@
 ![design_patterns](https://img.shields.io/badge/-design_patterns-grey?style=for-the-badge&logo=materialdesignicons&logoColor=white&labelColor=orange)
 
 
-
-
-
 <details>
 <summary><b><i>More Skills</i></b></summary>
   
